@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1513446775 source:c:\users\vinayak\desktop\advance c prgms\quiz mini project\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<ctype.h>
+	<stdlib.h>
+	<time.h>
+
+1513446775 source:e:\laptop_storage\programming languages folders\advance c prgms\quiz mini project\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<ctype.h>
+	<stdlib.h>
+	<time.h>
+
